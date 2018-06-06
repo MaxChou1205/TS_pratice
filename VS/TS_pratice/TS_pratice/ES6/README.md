@@ -1,0 +1,1 @@
+# 將exercises.js的內容轉成ES6寫法
