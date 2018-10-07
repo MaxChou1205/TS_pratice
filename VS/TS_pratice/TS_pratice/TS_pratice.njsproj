@@ -48,6 +48,9 @@
     <TypeScriptCompile Include="Classes and Object\app.ts">
       <SubType>Code</SubType>
     </TypeScriptCompile>
+    <TypeScriptCompile Include="Classes and Object\solution.ts">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
     <TypeScriptCompile Include="ES6\app.ts" />
     <Content Include="Classes and Object\index.html">
       <SubType>Code</SubType>
@@ -69,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes and Object\app.js" />
+    <Compile Include="Classes and Object\exercises.js" />
     <Compile Include="ES6\app.js" />
     <Compile Include="ES6\exercises.js" />
     <Compile Include="ES6\solutions.js" />
