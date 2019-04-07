@@ -73,6 +73,7 @@
   <ItemGroup>
     <Compile Include="Classes and Object\app.js" />
     <Compile Include="Classes and Object\exercises.js" />
+    <Compile Include="Classes and Object\solution.js" />
     <Compile Include="ES6\app.js" />
     <Compile Include="ES6\exercises.js" />
     <Compile Include="ES6\solutions.js" />
